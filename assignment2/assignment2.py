@@ -159,4 +159,3 @@ def write_sorted_list():
         writer.writerows(converted)
 
     return converted
-
